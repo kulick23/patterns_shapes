@@ -17,3 +17,31 @@ INFO: Base Area: 1
 INFO: Volume: 0.3333333333333333
 INFO: Surface Area: 2
 INFO: Is Base on Coordinate Plane: false
+INFO: Valid Triangle created with data: 0 0 3 0 0 4  
+ERROR: Invalid Triangle data: 1 1 2 2 3 3  
+ERROR: Invalid shape data: 1.0 2.0 3.0 
+INFO: Valid Pyramid created with data: 0 0 0 4 0 0 4 4 0 0 4 0 2 2 6 
+ERROR: Invalid Pyramid data: 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 
+ERROR: Invalid shape data: a b c d e f g h i j k l m n o  
+INFO: Valid Pyramid created with data: 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1   
+INFO: Valid Triangle created with data: 0 0 3 0 0 4  
+ERROR: Invalid Triangle data: 1 1 2 2 3 3  
+ERROR: Invalid shape data: 1.0 2.0 3.0 
+INFO: Valid Pyramid created with data: 0 0 0 4 0 0 4 4 0 0 4 0 2 2 6 
+ERROR: Invalid Pyramid data: 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 
+ERROR: Invalid shape data: a b c d e f g h i j k l m n o  
+INFO: Valid Pyramid created with data: 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1   
+INFO: Valid Triangle created with data: 0 0 3 0 0 4  
+ERROR: Invalid Triangle data: 1 1 2 2 3 3  
+ERROR: Invalid shape data: 1.0 2.0 3.0 
+INFO: Valid Pyramid created with data: 0 0 0 4 0 0 4 4 0 0 4 0 2 2 6 
+ERROR: Invalid Pyramid data: 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 
+ERROR: Invalid shape data: a b c d e f g h i j k l m n o  
+INFO: Valid Pyramid created with data: 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1   
+INFO: Valid Triangle created with data: 0 0 3 0 0 4  
+ERROR: Invalid Triangle data: 1 1 2 2 3 3  
+ERROR: Invalid shape data: 1.0 2.0 3.0 
+INFO: Valid Pyramid created with data: 0 0 0 4 0 0 4 4 0 0 4 0 2 2 6 
+ERROR: Invalid Pyramid data: 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 
+ERROR: Invalid shape data: a b c d e f g h i j k l m n o  
+INFO: Valid Pyramid created with data: 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1   
